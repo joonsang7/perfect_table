@@ -1,3 +1,3 @@
 # perfect_table
 
-- 완벽한 싴탁 repository
+- flutter project for '완벽한 싴탁'
